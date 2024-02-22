@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.gap{
+    margin-bottom:5px;
+}
+.textstyle{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.reg{
+    display:flexbox;
+    border:solid 2px black;
+    margin:25%;
+    margin-top:10%;
+}
+
+.alignn{
+    display: flex;
+    margin: 67px;
+    justify-content: space-between;
+}
+
+.padd{
+    padding:50px;
+}
+
+.head{
+    padding-top:20px;
+   text-align: center;
+}
+
+.submit{
+    padding:2px;
+    margin-left:30%;
+    margin-bottom:40px;
+    padding:5px 120px 5px 120px;
+    border-radius:35px;
+    
+}
